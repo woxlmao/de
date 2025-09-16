@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=700\&size=32\&pause=700\&color=FF6B6B\&center=true\&vCenter=true\&width=900\&lines=Aspiring+Backend+Developer;Gamer+%26+Night+Rider;Just+Starting+%E2%80%A2+Very+Curious)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code\&weight=700\&size=32\&pause=700\&color=FF6B6B\&center=true\&vCenter=true\&width=900\&lines=Aspiring+Backend+Developer;Gamer+%26+Night+Rider;Just+Starting+%E2%80%A2+Very+Curious)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <!-- different cool GIF -->
 
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="800" style="border-radius:12px;box-shadow:0 12px 30px rgba(0,0,0,0.45)"/>
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="800" style="border-radius:12px;box-shadow:0 12px 30px rgba(0,0,0,0.45)"/>
 
 </div>
 
