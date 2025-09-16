@@ -64,9 +64,9 @@ I like to play games — PC games, mobile games, or even real-life games. My dre
 
 <div align="center">
 
-<img alt="BGMI" src="https://img.shields.io/badge/BGMI-Playing?style=for-the-badge" height="60" style="margin:8px;border-radius:10px;" />
+<img alt="BGMI" src="https://img.shields.io/badge/BGMI-Playing-orange?style=for-the-badge" height="60" style="margin:8px;border-radius:10px;" />
 <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="60" style="margin:8px;border-radius:10px;" />
-<img alt="Valorant" src="https://img.shields.io/badge/Valorant-Competitive?style=for-the-badge" height="60" style="margin:8px;border-radius:10px;" />
+<img alt="Valorant" src="https://img.shields.io/badge/Valorant-Competitive-red?style=for-the-badge" height="60" style="margin:8px;border-radius:10px;" />
 <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="60" style="margin:8px;border-radius:10px;" />
 
 </div>
