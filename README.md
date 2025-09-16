@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code\&weight=700\&size=32\&pause=700\&color=FF6B6B\&center=true\&vCenter=true\&width=900\&lines=Aspiring+Backend+Developer;Gamer+%26+Night+Rider;Just+Starting+%E2%80%A2+Very+Curious)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=700\&size=36\&pause=700\&color=00D9FF\&center=true\&vCenter=true\&width=1000\&lines=Student+Developer;C%2B%2B+Learner;Math+%26+Logic;Automation+Tinkerer;Always+Curious)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <!-- different cool GIF -->
 
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="800" style="border-radius:12px;box-shadow:0 12px 30px rgba(0,0,0,0.45)"/>
+<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="800" style="border-radius:14px;box-shadow:0 14px 40px rgba(2,6,23,0.6)"/>
 
 </div>
 
@@ -47,6 +47,29 @@ I like to play games — PC games, mobile games, or even real-life games. My dre
 > **Note:** these are beginner levels — learning fast and improving every day.
 
 ---
+
+## 🧰 Coding Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-30%25-3776AB?style=for-the-badge&logo=python&logoColor=white" height="60" style="margin:8px;border-radius:10px;"/>
+<img src="https://img.shields.io/badge/C%2B%2B-25%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="60" style="margin:8px;border-radius:10px;"/>
+<img src="https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="60" style="margin:8px;border-radius:10px;"/>
+
+</div>
+
+> All three are *learning* — beginner levels and actively practicing.
+
+## 🎧 Fun Stack
+
+<div align="center">
+
+<img alt="BGMI" src="https://img.shields.io/badge/BGMI-Playing?style=for-the-badge" height="60" style="margin:8px;border-radius:10px;" />
+<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="60" style="margin:8px;border-radius:10px;" />
+<img alt="Valorant" src="https://img.shields.io/badge/Valorant-Competitive?style=for-the-badge" height="60" style="margin:8px;border-radius:10px;" />
+<img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="60" style="margin:8px;border-radius:10px;" />
+
+</div>
 
 ## 🎯 Current Focus
 
